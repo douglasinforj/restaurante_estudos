@@ -222,7 +222,7 @@ checkoutBtn.addEventListener("click", function(){
 
     //---Mensagem whatsap
     const message = encodeURIComponent(cartItems)     //pega os itens
-    const phone = "21965238304"
+    const phone = "+5521965238304"
 
     //Enviando 
     window.open(`https://wa.me/${phone}?text=${message} Endereço: ${addressInput.value}`, "_blank")

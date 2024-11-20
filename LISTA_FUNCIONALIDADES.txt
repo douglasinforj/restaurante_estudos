@@ -1,0 +1,11 @@
+Checklist do nosso projeto:
+
+
+-Listar os produtos
+-Adicionar produtos ao carrinho
+-varificar itnes no carrinho pela home
+-acessar detalhes do carrinho
+-remover item do carrinho
+-adicionar e verificar endereco
+-validar se o restaurante esta aberto
+-enviar o pedido para o whatsapp

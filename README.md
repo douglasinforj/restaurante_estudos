@@ -16,3 +16,7 @@ Checklist do projeto:
 
 stack utilizada:
 HTML, TAILWINDCSS, JAVASCRIPT
+
+## Link de Deploy no Vercel
+
+https://restaurante-cardapio.vercel.app/
